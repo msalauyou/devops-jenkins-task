@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<FindBugsFilter>
-  <Match>
-    <Bug pattern="NP_BOOLEAN_RETURN_NULL"/>
-  </Match>
-  <Match>
-    <Bug pattern="CNT_ROUGH_CONSTANT_VALUE"/>
-  </Match>
-</FindBugsFilter>
