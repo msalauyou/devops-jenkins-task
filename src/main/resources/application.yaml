@@ -1,4 +1,3 @@
 spring:
-  application:
-    name: jenkins-demo
+  application    : {     name: jenkins-demo, key: 100    }
 
